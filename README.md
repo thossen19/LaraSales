@@ -1,5 +1,7 @@
-# Sales ERP System
+# For Demo of Sale ERP : https://saleserp.ct.ws
 
+
+# Sales ERP System
 A comprehensive Sales ERP system built with Laravel 11 and RESTful API, inspired by FrontAccounting.
 
 ## Features
